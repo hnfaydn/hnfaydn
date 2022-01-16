@@ -2,14 +2,17 @@
 
 I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
 
-<font size="+2">I am currently working on with following technologies :</font>
+<h2> I am currently working on with following technologies :</h2>  
+
 <br><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="128"/>
 <img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="128" hspace=20/>
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="128"  hspace=20/>
-<img src="https://www.clipartmax.com/png/full/242-2423721_logo-postgresql.png" width="128"  hspace=20/><br>
+<img src="https://camo.githubusercontent.com/b009ec35e91d46e59c7011dc6292cb182963cbb1d1570767b28635fae9b43d39/68747470733a2f2f7777772e636c69706172746d61782e636f6d2f706e672f66756c6c2f3234322d323432333732315f6c6f676f2d706f737467726573716c2e706e67" width="128"  hspace=20/><br>
 
 
+<br><h2> I am currently working on improving myself on the following technologies  :</h2><br>
 
+<br><img src="https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png" width="128" /><br>
 
 <!--
 **hnfaydn/hnfaydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
