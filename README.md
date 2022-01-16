@@ -1,5 +1,4 @@
-### Hi, I am Mehmet Hanifi Aydın  👋
-
+### Hi, I am Mehmet Hanifi Aydın👋  <p align="right">![](https://komarev.com/ghpvc/?username=your-github-hnfaydn&color=green)</p>
 I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
 
 <h2> I am currently working on with following technologies :</h2>  
@@ -13,6 +12,14 @@ I graduated from Marmara University Faculty of Engineering as an Electricity and
 <br><h2> I am currently working on improving myself on the following technologies  :</h2><br>
 
 <br><img src="https://sc04.alicdn.com/kf/U0721a48732814105aae97d2245765dd2a.png" width="128" /><br>
+
+<br><h2>I am familiar to following technologies  :</h2><br>
+
+<br><img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="128" hspace=20 />
+<img src="https://himanshuganapavarapu.files.wordpress.com/2017/07/logo1.png" width="128" />
+<img src="https://www.nicepng.com/png/full/352-3529917_cshtml5-high-resolution-logo-cshtml5.png" width="128" />
+<br>
+
 
 <!--
 **hnfaydn/hnfaydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
