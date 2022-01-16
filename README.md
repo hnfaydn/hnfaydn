@@ -4,9 +4,9 @@ I graduated from Marmara University Faculty of Engineering as an Electricity and
 
 I am currently working on with following technologies :
 <br><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="128"/>
-<img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="64" hspace=10/>
-<img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="64"  hspace=10/>
-<img src="https://www.clipartmax.com/png/full/242-2423721_logo-postgresql.png" width="64"  hspace=10/><br>
+<img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="128" hspace=20/>
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="128"  hspace=20/>
+<img src="https://www.clipartmax.com/png/full/242-2423721_logo-postgresql.png" width="128"  hspace=20/><br>
 
 
 
