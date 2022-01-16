@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi, I am Mehmet Hanifi Aydın  👋
 
+I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
+
+I am currently working on with following technologies :
+<br><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="64"/><br>
+<br><img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="64"/><br>
+<br><img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="64"/><br>
+<br><img src="https://www.clipartmax.com/png/full/242-2423721_logo-postgresql.png" width="64"/><br>
 <!--
 **hnfaydn/hnfaydn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
