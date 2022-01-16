@@ -2,9 +2,7 @@
 
 I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
 
-<h1 style="font-size:10vw">I am currently working on with following technologies :</h1>
-
-
+<font size="+2">I am currently working on with following technologies :</font>
 <br><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" width="128"/>
 <img src="https://download.logo.wine/logo/Spring_Framework/Spring_Framework-Logo.wine.png" width="128" hspace=20/>
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" width="128"  hspace=20/>
