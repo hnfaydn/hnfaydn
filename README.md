@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/hnfaydn/">
   <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="128"  hspace=20/>
-</a> <br>
+</a> <br><br>
 I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
 
 <h2> I am currently working on with following technologies :</h2>  
