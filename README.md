@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/hnfaydn/" hspace=20>
   <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="128"  hspace=20/>
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=dwRftGZkXPkbVlXCxVhfrBjtPNGhdLlDvJCZvvZfqlnjCBkzgQTLNPTTSswHjPhMFSpzLdMqksxBxTlHnqbKDNbSdrFzDXxKjKLJrpssddsdQFVRHtDhvMdjsHJnMSXZBtjqFHhbJTWVpVWCPVcxqPmRftHcpWFGVJTJTsLM" hspace=20>
+<a href="https://mail.google.com/mail/u/?authuser=hnfaydn@gmail.com" hspace=20>
   <img src="https://www.seekpng.com/png/full/439-4398738_icon-image-free-gmail-google.png" width="128"  hspace=20/>
 </a> 
 <br><br> 
