@@ -1,11 +1,8 @@
 ### Hi, I am Mehmet Hanifi Aydın👋  <p align="right">![](https://komarev.com/ghpvc/?username=your-github-hnfaydn&color=green)</p>
-#### You could contact with me by LinkedIn and Gmail down below.   ![](https://hit.yhype.me/github/profile?user_id=86236897)
+#### You could contact with me by LinkedIn down below.   ![](https://hit.yhype.me/github/profile?user_id=86236897)
 <a href="https://www.linkedin.com/in/hnfaydn/" hspace=20>
   <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-png-16.png" width="128"  hspace=20/>
 </a>
-<a href="https://mail.google.com/mail/u/?authuser=hnfaydn@gmail.com" hspace=20>
-  <img src="https://www.seekpng.com/png/full/439-4398738_icon-image-free-gmail-google.png" width="128"  hspace=20/>
-</a> 
 <br><br> 
 I graduated from Marmara University Faculty of Engineering as an Electricity and Electronics Engineer. Currently I am a Software Developer.
 
